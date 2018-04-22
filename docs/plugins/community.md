@@ -74,8 +74,8 @@ listings here do not imply endorsement by the Known project team in any way.
 
 ### Themes
 
-* [Material](https://github.com/physcocode/Material) – Google Material design style theme for known , by [Pranjal Pandey][]
-* [Nature](https://github.com/physcocode/nature) – Warm natural theme for known , by [Pranjal Pandey][]
+* [Material](https://github.com/copusvision/Material) – Google Material design style theme for known , by [Pranjal Pandey][]
+* [Nature](https://github.com/corpusvision/nature) – Warm natural theme for known , by [Pranjal Pandey][]
 
 
 ### Misc
@@ -99,7 +99,7 @@ listings here do not imply endorsement by the Known project team in any way.
 * [Cleverdevil Customizations](https://github.com/cleverdevil/CleverCustomize) – A small collection of customizations, by [Jonathan LaCour][]
 * [MastodonEmbed](https://github.com/danito/KnownEmbedMastodon) - Embed Mastodon status , by [Daniel Nix][]
 
-[Pranjal Pandey]: https://www.github.com/physcocode
+[Pranjal Pandey]: https://www.corpusvision.com
 [Daniel Nix]: https://nxd4n.nixekinder.be
 [decsharing]: https://www.w3.org/community/decsharing/
 [Jonathan LaCour]: https://cleverdevil.io
